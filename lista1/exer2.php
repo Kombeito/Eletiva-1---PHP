@@ -8,7 +8,7 @@
   </head>
   <body>
     <h1>exercicio 2!</h1>
-    <form method="post" action="resposta.php">
+    <form method="post" action="exer2resposta.php">
                         
         <div class="mb-3">
             <label for="valor 1" class="form-label">Informe um numero</label>
